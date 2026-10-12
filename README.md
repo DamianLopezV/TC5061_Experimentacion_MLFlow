@@ -7,7 +7,7 @@ Script de entrenamiento de un clasificador de **Regresión Logística** para pre
 ## Estructura del proyecto
 
 ```
-Tarea03/
+Experimentacion_MLFlow/
 ├── train.py              # Script principal de entrenamiento
 ├── heart.csv             # Dataset (Heart Disease)
 ├── requirements.txt      # Dependencias Python
